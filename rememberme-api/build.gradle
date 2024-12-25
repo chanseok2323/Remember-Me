@@ -2,7 +2,7 @@ bootJar { enabled = true }
 jar { enabled = false }
 
 dependencies {
-    implementation project(':rememberme-common')
+    implementation project(':rememberme-core')
     implementation 'org.springframework.boot:spring-boot-starter-data-jpa'  // JPA
     implementation 'org.springframework.boot:spring-boot-starter-security'	// Security
 

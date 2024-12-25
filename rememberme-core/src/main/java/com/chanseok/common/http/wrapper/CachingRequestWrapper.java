@@ -1,6 +1,5 @@
 package com.chanseok.common.http.wrapper;
 
-import ch.qos.logback.core.util.StringUtil;
 import jakarta.servlet.ReadListener;
 import jakarta.servlet.ServletInputStream;
 import jakarta.servlet.http.HttpServletRequest;

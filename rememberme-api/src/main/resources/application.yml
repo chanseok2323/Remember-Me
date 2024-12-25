@@ -22,5 +22,5 @@ spring:
           default-page-size: 10
 
 jwt:
-  secret-key: chanseokchanseokchanseokchanseokchanseok
+  secret-key: chanseokchanseokchanseokchanseokchanseokchanseokchanseokchanseokchanseokchanseok
   expiration-time: 86400000

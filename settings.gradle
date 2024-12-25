@@ -1,4 +1,4 @@
 rootProject.name = 'rememberme-multi-module'
 
-include 'rememberme-common'
+include 'rememberme-core'
 include 'rememberme-api'
